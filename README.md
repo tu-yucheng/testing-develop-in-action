@@ -8,3 +8,4 @@
 - [@Before vs @BeforeClass vs @BeforeEach vs @BeforeAll](http://www.baeldung.com/junit-before-beforeclass-beforeeach-beforeall)
 - [JUnit 5 @Test Annotation](testing-in-action-junit-5-basics/docs/Junit5_@Test.md)
 - [Migrating from JUnit 4 to JUnit 5](testing-in-action-junit-5-basics/docs/Junit5_Migration.md)
+- [Assert an Exception is Thrown in JUnit 4 and 5](testing-in-action-junit-5-basics/docs/Junit5_AssertException.md)
