@@ -1,0 +1,26 @@
+package cn.tuyucheng.taketoday.testpropertysource;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.TestPropertySource;
+import org.springframework.test.context.junit.jupiter.SpringExtension;
+
+import static org.assertj.core.api.Assertions.assertThat;
+
+@ExtendWith(SpringExtension.class)
+@ContextConfiguration(classes = ClassUsingProperty.class)
+@TestPropertySource(properties = "tuyucheng.testpropertysource.one=other-properties-value")
+public class PropertiesTestPropertySourceIntegrationTest {
+    @Autowired
+    private ClassUsingProperty classUsingProperty;
+
+    @Test
+    @DisplayName("givenDefaultTestPropertySource_whenVariableOneRetrieved_thenValueInDefaultReturned")
+    public void givenDefaultTestPropertySourceWhenVariableOneRetrievedThenValueInDefaultReturned() {
+        String output = classUsingProperty.retrievePropertyOne();
+        assertThat(output).isEqualTo("other-properties-value");
+    }
+}
