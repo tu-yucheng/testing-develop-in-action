@@ -17,3 +17,4 @@
 - [A Quick Guide to @TestPropertySource](testing-in-action-junit-5-spring-1/docs/GuideTo_@TestPropertySource.md)
 - [Guide to ReflectionTestUtils for Unit Testing](testing-in-action-junit-5-spring-1/docs/GuideTo_ReflectionTestUtils.md)
 - [How to Test the @Scheduled Annotation](testing-in-action-junit-5-spring-1/docs/HowToTest_@Scheduled.md)
+- [Using SpringJUnit4ClassRunner with Parameterized](testing-in-action-junit-5-spring-1/docs/SpringJunit4ClassRunner_ParameterizedTest.md)
