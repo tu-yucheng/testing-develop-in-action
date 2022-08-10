@@ -19,3 +19,4 @@
 - [How to Test the @Scheduled Annotation](testing-in-action-junit-5-spring-1/docs/HowToTest_@Scheduled.md)
 - [Using SpringJUnit4ClassRunner with Parameterized](testing-in-action-junit-5-spring-1/docs/SpringJunit4ClassRunner_ParameterizedTest.md)
 - [Override Properties in Spring’s Tests](testing-in-action-junit-5-spring-1/docs/OverrideProperties_InSpring.md)
+- [A Quick Guide to @DirtiesContext](testing-in-action-junit-5-spring-1/docs/GuideTo_@DirtiesContext.md)
