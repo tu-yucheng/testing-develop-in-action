@@ -20,3 +20,9 @@
 - [Using SpringJUnit4ClassRunner with Parameterized](testing-in-action-junit-5-spring-1/docs/SpringJunit4ClassRunner_ParameterizedTest.md)
 - [Override Properties in Spring’s Tests](testing-in-action-junit-5-spring-1/docs/OverrideProperties_InSpring.md)
 - [A Quick Guide to @DirtiesContext](testing-in-action-junit-5-spring-1/docs/GuideTo_@DirtiesContext.md)
+
+### testing-in-action-junit-5-spring-2
+
+- [Concurrent Test Execution in Spring 5](testing-in-action-junit-5-spring-2/docs/ConcurrentTestExecution_InSpring.md)
+- [The Spring TestExecutionListener](testing-in-action-junit-5-spring-2/docs/Spring_TestExecutionListener.md)
+- [Spring 5 Testing with @EnabledIf Annotation](testing-in-action-junit-5-spring-2/docs/SpringTestWith_@EnabledIf.md)
