@@ -26,3 +26,7 @@
 - [Concurrent Test Execution in Spring 5](testing-in-action-junit-5-spring-2/docs/ConcurrentTestExecution_InSpring.md)
 - [The Spring TestExecutionListener](testing-in-action-junit-5-spring-2/docs/Spring_TestExecutionListener.md)
 - [Spring 5 Testing with @EnabledIf Annotation](testing-in-action-junit-5-spring-2/docs/SpringTestWith_@EnabledIf.md)
+
+### testing-in-action-junit-5-spring-boot-1
+
+- [Exclude Auto-Configuration Classes in Spring Boot Tests](testing-in-action-junit-5-spring-boot-1/docs/ExcludeAutoConfigClass_InSpringBootTest.md)
