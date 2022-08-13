@@ -33,3 +33,4 @@
 - [Embedded Redis Server with Spring Boot Test](testing-in-action-junit-5-spring-boot-1/docs/EmbeddedRedisServer_WithSpringBootTest.md)
 - [Testing Spring Boot @ConfigurationProperties](testing-in-action-junit-5-spring-boot-1/docs/SpringBoot_@ConfigurationProperties.md)
 - [Prevent ApplicationRunner or CommandLineRunner Beans From Executing During Junit Testing](testing-in-action-junit-5-spring-boot-1/docs/PreventCommandRunnerStart.md)
+- [Testing in Spring Boot](testing-in-action-junit-5-spring-boot-1/docs/Test_InSpringBoot.md)
