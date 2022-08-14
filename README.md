@@ -40,3 +40,4 @@
 
 - [Setting the Log Level in Spring Boot when Testing](testing-in-action-junit-5-spring-boot-2/docs/SpringBoot_Testing_LogLevel.md)
 - [Spring Web Service Integration Tests with @WebServiceServerTest](testing-in-action-junit-5-spring-boot-2/docs/SpringBoot_WebServiceTest.md)
+- [Failed to Load ApplicationContext for JUnit Test of Spring Controller](testing-in-action-junit-5-spring-boot-2/docs/FailedLoadApplicationContext_ForJunitTestOfSpringController.md)
