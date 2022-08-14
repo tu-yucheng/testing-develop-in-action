@@ -34,3 +34,8 @@
 - [Testing Spring Boot @ConfigurationProperties](testing-in-action-junit-5-spring-boot-1/docs/SpringBoot_@ConfigurationProperties.md)
 - [Prevent ApplicationRunner or CommandLineRunner Beans From Executing During Junit Testing](testing-in-action-junit-5-spring-boot-1/docs/PreventCommandRunnerStart.md)
 - [Testing in Spring Boot](testing-in-action-junit-5-spring-boot-1/docs/Test_InSpringBoot.md)
+- [Testing with Spring and Spock](https://www.baeldung.com/spring-spock-testing)
+
+### ### testing-in-action-junit-5-spring-boot-2
+
+- [Setting the Log Level in Spring Boot when Testing](testing-in-action-junit-5-spring-boot-2/docs/SpringBoot_Testing_LogLevel.md)
