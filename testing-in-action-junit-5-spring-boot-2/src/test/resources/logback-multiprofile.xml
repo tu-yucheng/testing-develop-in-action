@@ -1,0 +1,18 @@
+<configuration>
+    <include resource="/org/springframework/boot/logging/logback/base.xml"/>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%blue(%d{HH:mm:ss.SSS}) %yellow([%thread]) %magenta(%-5level) %green([%logger{36}]) >>> %cyan(%msg) %n
+            </pattern>
+        </encoder>
+    </appender>
+    <root level="error">
+        <appender-ref ref="STDOUT"/>
+    </root>
+    <springProfile name="logback-test1">
+        <logger name="cn.tuyucheng.taketoday.testloglevel" level="info"/>
+    </springProfile>
+    <springProfile name="logback-test2">
+        <logger name="cn.tuyucheng.taketoday.testloglevel" level="trace"/>
+    </springProfile>
+</configuration>
