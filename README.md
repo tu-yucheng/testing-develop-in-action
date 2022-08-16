@@ -11,6 +11,10 @@
 - [Assert an Exception is Thrown in JUnit 4 and 5](testing-in-action-junit-5-basics/docs/Junit5_AssertException.md)
 - [The Difference Between Failure and Error in JUnit](testing-in-action-junit-5-basics/docs/Failure_VS_Error.md)
 
+### testing-in-action-junit-5
+
+- [A Guide to JUnit 5 Extensions](testing-in-action-junit-5/docs/Junit5_Extension.md)
+
 ### testing-in-action-junit-5-spring-1
 
 - [Mockito.mock() vs @Mock vs @MockBean](testing-in-action-junit-5-spring-1/docs/@Mock_@MockBean.md)
