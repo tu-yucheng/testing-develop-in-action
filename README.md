@@ -36,8 +36,13 @@
 - [Testing in Spring Boot](testing-in-action-junit-5-spring-boot-1/docs/Test_InSpringBoot.md)
 - [Testing with Spring and Spock](https://www.baeldung.com/spring-spock-testing)
 
-### ### testing-in-action-junit-5-spring-boot-2
+### testing-in-action-junit-5-spring-boot-2
 
 - [Setting the Log Level in Spring Boot when Testing](testing-in-action-junit-5-spring-boot-2/docs/SpringBoot_Testing_LogLevel.md)
 - [Spring Web Service Integration Tests with @WebServiceServerTest](testing-in-action-junit-5-spring-boot-2/docs/SpringBoot_WebServiceTest.md)
 - [Failed to Load ApplicationContext for JUnit Test of Spring Controller](testing-in-action-junit-5-spring-boot-2/docs/FailedLoadApplicationContext_ForJunitTestOfSpringController.md)
+- [Spring Boot – Testing Redis With Testcontainers](testing-in-action-junit-5-spring-boot-2/docs/SpringBoot_Redis_TestContainers.md)
+
+### testing-in-action-mockito-1
+
+- [Mockito Verify Cookbook](testing-in-action-mockito-1/docs/Mockito_Verify.md)
