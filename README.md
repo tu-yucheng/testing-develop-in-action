@@ -16,6 +16,7 @@
 - [A Guide to JUnit 5 Extensions](testing-in-action-junit-5/docs/Junit5_Extension.md)
 - [Inject Parameters into JUnit Jupiter Unit Tests](testing-in-action-junit-5/docs/Junit5_Inject_Parameters.md)
 - [The Order of Tests in JUnit](testing-in-action-junit-5/docs/Junit5_Test_Order.md)
+- [Running JUnit Tests Programmatically, from a Java Application](testing-in-action-junit-5/docs/Junit5_RunFrom_Java.md)
 
 ### testing-in-action-junit-5-spring-1
 
