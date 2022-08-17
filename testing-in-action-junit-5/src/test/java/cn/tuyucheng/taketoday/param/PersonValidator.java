@@ -1,6 +1,5 @@
 package cn.tuyucheng.taketoday.param;
 
-import java.io.Serial;
 import java.util.Arrays;
 
 /**
@@ -74,7 +73,7 @@ public class PersonValidator {
      * @author tu yucheng
      */
     public static class ValidationException extends Exception {
-        @Serial
+        // @Serial
         private static final long serialVersionUID = -134518049431883102L;
 
         // Probably should implement some more constructors, but don't want to tarnish the lesson...
