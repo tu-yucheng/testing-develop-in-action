@@ -19,7 +19,8 @@
 - [Running JUnit Tests Programmatically, from a Java Application](testing-in-action-junit-5/docs/Junit5_RunFrom_Java.md)
 - [Testing an Abstract Class With JUnit](testing-in-action-junit-5/docs/Junit5_Test_AbstractClass.md)
 - [Guide to Dynamic Tests in JUnit 5](testing-in-action-junit-5/docs/Junit5_DynamicTest.md)
-
+- [Determine the Execution Time of JUnit Tests](testing-in-action-junit-5/docs/Junit5_Test_ExecutionTime.md)
+- 
 ### testing-in-action-junit-5-spring-1
 
 - [Mockito.mock() vs @Mock vs @MockBean](testing-in-action-junit-5-spring-1/docs/@Mock_@MockBean.md)
