@@ -25,6 +25,7 @@
 ### testing-in-action-junit-5-advanced
 
 - [JUnit 5 TestWatcher API](testing-in-action-junit-5-advanced/docs/Junit5_TestWatcher.md)
+- [JUnit Custom Display Name Generator API](testing-in-action-junit-5-advanced/docs/Junit5_DisplayName_Generator.md)
 
 ### testing-in-action-junit-5-spring-1
 
