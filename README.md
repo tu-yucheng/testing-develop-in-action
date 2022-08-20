@@ -66,3 +66,4 @@
 - [Mockito When/Then Cookbook](testing-in-action-mockito-1/docs/Mockito_Behavior.md)
 - [Getting Started with Mockito @Mock, @Spy, @Captor and @InjectMocks](testing-in-action-mockito-1/docs/Mockito_Annotation.md)
 - [Mockito’s Mock Methods](testing-in-action-mockito-1/docs/Mockito_Mock_Method.md)
+- [Mocking Exception Throwing using Mockito](testing-in-action-mockito-1/docs/Mockito_Exceptions.md)
