@@ -67,3 +67,4 @@
 - [Getting Started with Mockito @Mock, @Spy, @Captor and @InjectMocks](testing-in-action-mockito-1/docs/Mockito_Annotation.md)
 - [Mockito’s Mock Methods](testing-in-action-mockito-1/docs/Mockito_Mock_Method.md)
 - [Mocking Exception Throwing using Mockito](testing-in-action-mockito-1/docs/Mockito_Exceptions.md)
+- [Mocking Void Methods with Mockito](testing-in-action-mockito-1/docs/Mockito_Void_Method.md)
