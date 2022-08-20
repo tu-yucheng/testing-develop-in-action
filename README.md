@@ -69,3 +69,4 @@
 - [Mocking Exception Throwing using Mockito](testing-in-action-mockito-1/docs/Mockito_Exceptions.md)
 - [Mocking Void Methods with Mockito](testing-in-action-mockito-1/docs/Mockito_Void_Method.md)
 - [Mock Final Classes and Methods with Mockito](testing-in-action-mockito-1/docs/Mockito_Final.md)
+- [Testing Callbacks with Mockito](testing-in-action-mockito-1/docs/Mockito_Callbacks.md)
