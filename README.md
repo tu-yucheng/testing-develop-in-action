@@ -63,3 +63,4 @@
 ### testing-in-action-mockito-1
 
 - [Mockito Verify Cookbook](testing-in-action-mockito-1/docs/Mockito_Verify.md)
+- [Mockito When/Then Cookbook](testing-in-action-mockito-1/docs/Mockito_Behavior.md)
