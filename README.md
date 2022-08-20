@@ -64,3 +64,4 @@
 
 - [Mockito Verify Cookbook](testing-in-action-mockito-1/docs/Mockito_Verify.md)
 - [Mockito When/Then Cookbook](testing-in-action-mockito-1/docs/Mockito_Behavior.md)
+- [Getting Started with Mockito @Mock, @Spy, @Captor and @InjectMocks](testing-in-action-mockito-1/docs/Mockito_Annotation.md)
