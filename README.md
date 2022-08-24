@@ -29,6 +29,10 @@
 - [@TestInstance Annotation in JUnit 5](testing-in-action-junit-5-advanced/docs/Junit5_@TestInstance.md)
 - [Parallel Test Execution for JUnit 5](testing-in-action-junit-5-advanced/docs/Junit5_Parallel_Test.md)
 
+### testing-in-action-junit-5-annotations
+
+- [A Guide to @RepeatedTest in JUnit 5](testing-in-action-junit-5-annotations/docs/Junit5_@RepeatedTest.md)
+
 ### testing-in-action-junit-5-spring-1
 
 - [Mockito.mock() vs @Mock vs @MockBean](testing-in-action-junit-5-spring-1/docs/@Mock_@MockBean.md)
